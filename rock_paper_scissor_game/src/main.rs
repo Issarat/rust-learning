@@ -1,3 +1,8 @@
+mod input;
+mod logic;
+mod constants;
+use input::input_choice;
+
 fn main() {
-    println!("Hello, world!");
+    input_choice();
 }
