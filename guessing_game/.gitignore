@@ -1,0 +1,15 @@
+# 1. ผลลัพธ์จากการ Compile (ห้ามเอาขึ้นเด็ดขาด!)
+/target/
+
+# 2. ไฟล์ชั่วคราวจาก VS Code หรือ Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 3. ไฟล์ OS
+.DS_Store
+Thumbs.db
+
+# 4. ไฟล์ความลับ (ถ้ามี)
+.env
