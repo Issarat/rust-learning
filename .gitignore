@@ -1,6 +1,5 @@
 # 1. ผลลัพธ์จากการ Compile (ห้ามเอาขึ้นเด็ดขาด!)
-/target/
-
+**/target/
 # 2. ไฟล์ชั่วคราวจาก VS Code หรือ Editor
 .vscode/
 .idea/
