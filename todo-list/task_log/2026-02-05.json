@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Learn Rust",
+    "status": "Todo"
+  },
+  {
+    "id": 2,
+    "title": "Write Code",
+    "status": "InProgress"
+  }
+]
