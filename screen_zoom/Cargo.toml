@@ -1,0 +1,11 @@
+[package] 
+name = "screen_zoom"
+version = "0.1.0"
+edition = "2024"
+  
+[dependencies] 
+winit = "0.30.12" 
+pixels = "0.15" 
+captrs = "0.3" 
+windows = { version = "0.62.2", features = [ "Win32_UI_WindowsAndMessaging", "Win32_Foundation", "Win32_Graphics_Gdi" ] }
+global-hotkey = "0.7.0"
